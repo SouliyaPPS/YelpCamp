@@ -1,0 +1,20 @@
+{
+  "name": "v1",
+  "description": "YelpCamp V1",
+  "main": "app.js",
+  "authors": [
+    "bgongre"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
